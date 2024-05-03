@@ -1,11 +1,8 @@
 #!python3
 
 def sum(a,b):
-    #inputs
-    # a : float 
-    # b : float
-    # return value: returns the sum of the 2 numbers
-    return
+    c = round(a+b, 1)
+    return c
 
 
 
